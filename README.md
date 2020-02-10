@@ -14,3 +14,6 @@ Containers created and their ports are as follows:
 - **mysql** - `:3307`
 - **php** - `:9000`
 - **adminer** - `:8080`
+
+***
+###Aplication lives in directory `./src` 
